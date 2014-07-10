@@ -1,2 +1,2 @@
 project:
-  platform: php
+  root: public
